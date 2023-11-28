@@ -9,3 +9,4 @@ Future ideas:
 * Database integration with Supabase to remember the number of dollars in the account.
 * Multiple accounts
 * Login and Password
+* Make deposit/withdraw/checkMyBalance into a GUI
